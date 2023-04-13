@@ -1,1 +1,1 @@
-# customer-segmentation-app
+# customer-segmentation
